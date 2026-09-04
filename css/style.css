@@ -1,0 +1,37 @@
+
+/*
+ comentario do css para entender o que está acontecendo.
+
+*/
+
+
+
+
+h1{
+    color: rgb(73, 5, 163);
+    font: 100;
+}
+
+
+p{ 
+    color: blue;
+    
+}
+
+
+legend{ 
+    color: darkblue;
+    
+}
+
+
+body {
+    color: rgb(233, 29, 199);
+    background-color: blue;
+    background-image: url(../icon/icon/i/gatobotapansudo.jpg);
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-position: top center;
+
+}
+
