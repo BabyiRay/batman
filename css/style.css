@@ -53,10 +53,13 @@ li.italico {
 
 }
 
+
 table, th, td{
     border: 1px solid blue;
-    border border-collapse: separate;
+    border: border-collapse: separate;
+
 }
+
 
 table{
     background-color: aqua;
@@ -69,3 +72,22 @@ th {
 td {
     padding: 20px 10px 20px 10px;
 }
+
+
+ul{ 
+    text-indent: 100px;
+list-style-position: inside;
+
+}
+
+a.removeSublinhado {
+    text-decoration: none;
+}
+
+
+
+a:hover {
+    color: red;
+}
+
+
