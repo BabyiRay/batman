@@ -56,8 +56,7 @@ li.italico {
 
 table, th, td{
     border: 1px solid blue;
-    border: border-collapse: separate;
-
+    border: border-collapse separate
 }
 
 
@@ -89,5 +88,13 @@ a.removeSublinhado {
 a:hover {
     color: red;
 }
+
+span.vermelho{
+    color:rgb(233, 29, 199)
+}
+
+
+#insetos { background-color: red; }
+#repteis { background-color: green; } 
 
 
