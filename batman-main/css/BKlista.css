@@ -1,0 +1,15 @@
+ul {
+    list-style: disc;
+}
+
+ol {
+    list-style-type: decimal-leading-zero;
+}
+
+ol.gif {
+    list-style-image: url(https://giphy.com/explore/animation);
+}
+
+#uramaki {
+    color:aqua;
+}

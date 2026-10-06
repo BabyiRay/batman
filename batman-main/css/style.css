@@ -1,0 +1,105 @@
+
+/*
+ comentario do css para entender o que está acontecendo.
+
+*/
+
+
+
+
+h1{
+    color: rgb(73, 5, 163);
+    font: 100;
+}
+
+
+p{ 
+    color: blue;
+    
+}
+
+
+legend{ 
+    color: darkblue;
+    
+}
+
+
+body {
+    color: rgb(233, 29, 199);
+    background-color: blue;
+    background-image: url(../icon/icon/i/gatobotapansudo.jpg);
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-position: top center;
+
+    font-size: 16px;
+
+}
+
+p {
+
+    color: blue;
+    margin-left: 50px;
+    text-align: justify;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+    
+}
+
+li.italico {
+    font-style: italic; 
+    font-size: 50px;
+
+}
+
+
+table, th, td{
+    border: 1px solid blue;
+    border: border-collapse separate
+}
+
+
+table{
+    background-color: aqua;
+}
+
+th {
+    height: 30px;
+}
+
+td {
+    padding: 20px 10px 20px 10px;
+}
+
+
+ul{ 
+    text-indent: 100px;
+list-style-position: inside;
+
+}
+
+a.removeSublinhado {
+    text-decoration: none;
+}
+
+
+
+a:hover {
+    color: red;
+}
+
+span.vermelho{
+    color:rgb(233, 29, 199)
+}
+
+
+
+#insetos { background-color: red; }
+#repteis { background-color: green; } 
+
+
+
+
+
+
